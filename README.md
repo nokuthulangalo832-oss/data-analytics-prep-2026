@@ -7,4 +7,4 @@
 ### 🎓 Academic Studies (Starting January 2027)
 - 🏫 **Advanced Diploma in Business Analysis** | MANCOSA 
   - *Intake:* January 2027
-  - *Focus:* Bridging data insights from Power BI with strategic business analysi
+  - *Focus:* Bridging data insights from Power BI with strategic business analysis
